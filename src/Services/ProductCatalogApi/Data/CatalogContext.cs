@@ -64,5 +64,9 @@ namespace ProductCatalogApi.Data
                 .IsRequired(true)
                 .HasMaxLength(100);
         }
+
+        public DbSet<CatalogType> CatalogTypes { get; set; }
+        public DbSet<CatalogBrand> catalogBrands { get; set; }
+        public DbSet<CatalogItem> CatalogItems { get; set; }
     }
 }
