@@ -1,4 +1,5 @@
-﻿using ProductCatalogApi.Domain;
+﻿using Microsoft.EntityFrameworkCore;
+using ProductCatalogApi.Domain;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,6 +11,7 @@ namespace ProductCatalogApi.Data
     {
         public static async Task SeedAsync(CatalogContext context)
         {
+            context.Database.Migrate();
             if (!context.catalogBrands.Any())
             {
                 context.catalogBrands.AddRange(GetPreConfiguredCatalogBrands());
