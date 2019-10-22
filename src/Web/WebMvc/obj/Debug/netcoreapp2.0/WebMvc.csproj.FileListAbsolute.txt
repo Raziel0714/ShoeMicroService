@@ -1,0 +1,10 @@
+D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.AssemblyInfoInputs.cache
+D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.AssemblyInfo.cs
+D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.deps.json
+D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.runtimeconfig.json
+D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.runtimeconfig.dev.json
+D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.dll
+D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.csprojAssemblyReference.cache

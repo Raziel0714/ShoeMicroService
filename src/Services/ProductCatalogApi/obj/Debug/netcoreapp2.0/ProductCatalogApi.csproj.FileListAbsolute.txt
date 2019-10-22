@@ -1,6 +1,3 @@
-D:\Source\Repos\ShoeMicroService\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.csprojAssemblyReference.cache
-D:\Source\Repos\ShoeMicroService\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.AssemblyInfoInputs.cache
-D:\Source\Repos\ShoeMicroService\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.AssemblyInfo.cs
 D:\Source\Repos\ShoeMicroService\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.0\appsettings.Development.json
 D:\Source\Repos\ShoeMicroService\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.0\appsettings.json
 D:\Source\Repos\ShoeMicroService\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
@@ -9,5 +6,8 @@ D:\Source\Repos\ShoeMicroService\src\Services\ProductCatalogApi\bin\Debug\netcor
 D:\Source\Repos\ShoeMicroService\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.0\ProductCatalogApi.runtimeconfig.dev.json
 D:\Source\Repos\ShoeMicroService\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.0\ProductCatalogApi.dll
 D:\Source\Repos\ShoeMicroService\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.0\ProductCatalogApi.pdb
+D:\Source\Repos\ShoeMicroService\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.AssemblyInfoInputs.cache
+D:\Source\Repos\ShoeMicroService\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.AssemblyInfo.cs
 D:\Source\Repos\ShoeMicroService\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.dll
 D:\Source\Repos\ShoeMicroService\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.pdb
+D:\Source\Repos\ShoeMicroService\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.csprojAssemblyReference.cache
