@@ -11,7 +11,6 @@ D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\bin\Debug\netcoreapp3.0\WebMvc.V
 D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\bin\Debug\netcoreapp3.0\WebMvc.Views.pdb
 D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\obj\Debug\netcoreapp3.0\staticwebassets\WebMvc.StaticWebAssets.Manifest.cache
 D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\obj\Debug\netcoreapp3.0\staticwebassets\WebMvc.StaticWebAssets.xml
-D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\obj\Debug\netcoreapp3.0\WebMvc.MvcApplicationPartsAssemblyInfo.cache
 D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\obj\Debug\netcoreapp3.0\WebMvc.RazorAssemblyInfo.cache
 D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\obj\Debug\netcoreapp3.0\WebMvc.RazorAssemblyInfo.cs
 D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\obj\Debug\netcoreapp3.0\WebMvc.AssemblyInfoInputs.cache
@@ -32,3 +31,4 @@ D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\obj\Debug\netcoreapp3.0\WebMvc.V
 D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\obj\Debug\netcoreapp3.0\WebMvc.csproj.CopyComplete
 D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\obj\Debug\netcoreapp3.0\WebMvc.dll
 D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\obj\Debug\netcoreapp3.0\WebMvc.pdb
+D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\obj\Debug\netcoreapp3.0\WebMvc.csprojAssemblyReference.cache
