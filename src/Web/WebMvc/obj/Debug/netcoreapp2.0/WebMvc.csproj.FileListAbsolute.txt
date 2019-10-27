@@ -8,3 +8,6 @@ D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.r
 D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.runtimeconfig.dev.json
 D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.dll
 D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.csprojAssemblyReference.cache
+D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.dll
+D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.pdb
+D:\Source\Repos\ShoeMicroService\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.pdb

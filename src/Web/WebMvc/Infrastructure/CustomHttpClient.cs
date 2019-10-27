@@ -58,8 +58,7 @@ namespace ShoesOnContainers.Web.WebMvc.Infrastructure
         public async Task<HttpResponseMessage> DeleteAsync(string uri)
         {
             var requestMessage = new HttpRequestMessage(HttpMethod.Delete, uri);
-            var response = await _client.SendAsync(requestMessage);
-            return response;
+            return await _client.SendAsync(requestMessage);
         }
 
     }
